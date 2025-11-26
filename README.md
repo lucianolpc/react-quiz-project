@@ -11,3 +11,10 @@ Iniciado na Seção 12 e lecionado por:
 Na plataforma de ensino online **[Udemy](https://www.udemy.com/)**.
 
 ## Lista de aulas realizadas deste projeto:
+- 193 - Module Introduction & Starting Project
+- 194 - A First Component & Some State
+- 195 - Deriving Values, Outputting Questions & Registering Answers
+- 196 - Shuffling Answers & Adding Quiz Logic
+- 197 - Adding Question Timers
+- 198 - Working with Effect Dependencies & useCallback
+- 199 - Using Effect Cleanup Functions & Using Keys for Resetting Components
