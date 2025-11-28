@@ -18,3 +18,6 @@ Na plataforma de ensino online **[Udemy](https://www.udemy.com/)**.
 - 197 - Adding Question Timers
 - 198 - Working with Effect Dependencies & useCallback
 - 199 - Using Effect Cleanup Functions & Using Keys for Resetting Components
+- 200 - Highlighting Selected Answers & Managing More State
+- 201 - Splitting Components Up To Solve Problems
+- 202 - Moving Logic To Components That Actually Need It ("Moving State Down")
