@@ -21,3 +21,5 @@ Na plataforma de ensino online **[Udemy](https://www.udemy.com/)**.
 - 200 - Highlighting Selected Answers & Managing More State
 - 201 - Splitting Components Up To Solve Problems
 - 202 - Moving Logic To Components That Actually Need It ("Moving State Down")
+- 203 - Setting Different Timers Based On The Selected Answer
+- 204 - Outputting Quiz Results
